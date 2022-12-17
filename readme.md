@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg">
-    <img width="700" height="200" src="./assets/icon/logo.svg">
+    <img width="600" height="180" src="./assets/icon/logo.svg">
   </a>
   <br/>
   <h1></h1>
@@ -17,13 +17,13 @@
 
 ### 1. <a href="#description">Description</a>
 
+### 2. <a href="#link">Link</a>
+
 ### 3. <a href="#stack">Stack</a>
 
 ### 4. <a href="#team">Team</a>
 
-### 5. <a href="#link">Link</a>
-
-### 6. <a href="#license">License</a>
+### 5. <a href="#license">License</a>
 
 <!-- ||| -->
 
